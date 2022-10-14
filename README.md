@@ -1,1 +1,12 @@
-"# Algoritmo-Gen-tico_-Cruce-de-ciclo" 
+# Algoritmo Genetico Cruce de ciclo
+
+Input: 
+```
+8,11,3,5,6,4,2,12,1,9,7,10
+1,2,3,4,5,6,7,8,9,10,11,12
+```
+
+Output:
+```
+[8, 2, 3, 4, 5, 6, 7, 12, 1, 9, 11, 10]
+```
